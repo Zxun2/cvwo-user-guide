@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Groups and steps",
   tagline: "A knowledge repository 📝 ",
-  url: "https://cvwo-groups-and-steps-ts.netlify.app/",
+  url: "https://cvwo-groups-and-steps-user-guide.netlify.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
