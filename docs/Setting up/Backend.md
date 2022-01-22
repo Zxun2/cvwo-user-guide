@@ -4,7 +4,7 @@ The backend is written in Rails with Postgresql as the main database and hosted 
 The entire backend is developed in the linux environment.
 
 :::info
-You can visit the repo here: https://cvwo-assignment-todo-api.herokuapp.com/
+You can visit the repo here: https://github.com/Zxun2/cvwo-assignment-backend
 :::
 
 ## Running Backend Development Server on Docker

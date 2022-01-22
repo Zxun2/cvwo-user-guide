@@ -1,6 +1,6 @@
 # Feature 5: Different view layout
 
-Different views appeal to different users base. Here, we added two different view mode.
+Different views appeal to different users base. Here, we add two different view mode.
 
 Grid view:
 

@@ -11,7 +11,7 @@ Welcome to the application! I'm glad to have you here.
 When you enter the application for the first time, you will be prompted to log in with your credentials. Once authorized, you will be assigned a JWT token that will be saved to your local storage. This token is **important** for you to access other portions of the application as well as subsequent access during the lock-in period.
 
 :::note
-You can access the log in and sign up pages if you are already logged in. A “Log Out” button is provided in the top right corner for your convenience, although you are not required to log out before switching accounts.
+Since this is a Single Page Application, you can access the log-in and sign-up pages by navigating to the previous page. A “Log Out” button is provided in the top left corner for your convenience, although you are not required to log out before switching accounts.
 :::
 
 ![Log in](../../static/img/docs/log-in.png)

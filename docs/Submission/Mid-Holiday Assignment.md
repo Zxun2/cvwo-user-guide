@@ -2,9 +2,15 @@
 sidebar_position: 1
 ---
 
-# CVWO Riding on Rails 2021/2022 Mid Assignment Submission
+# CVWO Riding on Rails 2021/2022 Mid-Winter Assignment Submission
 
 By Lee Zong Xun
+
+This submission details the user stories and use cases for the application, database implementation with rails and plans for the upcoming month.
+
+Github Submission Repo: [Frontend Repo](https://github.com/Zxun2/cvwo-assignment-frontend), [Backend Repo](https://github.com/Zxun2/cvwo-assignment-backend)
+
+---
 
 ## Overview
 
@@ -16,14 +22,17 @@ This application adopted the use of MVC architecture for the backend and Flux ar
 
 ## Database Choice and design
 
-- Currently using PostgreSQL (Implemented with Rails)
-- Schema
+**PostgreSQL**
 
-  ![Schema](../../static/img/docs/schema.png)
+Implemented with Rails.
 
-- Modeling Relationship (One to Many)
+**Schema**
 
-  ![ERD](../../static/img/docs/ERD.png)
+![Schema](../../static/img/docs/schema.png)
+
+**Modeling Relationship (One to Many)**
+
+![ERD](../../static/img/docs/ERD.png)
 
 ## User Story
 
@@ -42,70 +51,57 @@ CRUDS functionality is dependent on API availability & integration.
 
 ## Use Cases
 
-### Input
-
 #### Create a group
 
-- Positive response
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-  - A new thread of steps will be created. Users will be prompted to start on their steps.
-
-- Negative response
-  - Unable to create a group. Error message.
+<Tabs>
+  <TabItem value="Positive Response" label="Positive Response">A new thread of steps will be created. Users will be prompted to start on their steps.</TabItem>
+  <TabItem value="Negative Response" label="Negative Response">Unable to create a group. Error message.</TabItem>
+</Tabs>
 
 #### Edit and Delete a group
 
-- Positive response
-
-  - Group's title will automatically be updated/deleted. All steps relevant to the group will also be deleted.
-
-- Negative response
-  - Error message.
+<Tabs>
+  <TabItem value="Positive Response" label="Positive Response">Group's title will automatically be updated/deleted. All steps relevant to the group will also be deleted.</TabItem>
+  <TabItem value="Negative Response" label="Negative Response">Error message.</TabItem>
+</Tabs>
 
 #### Create a step
 
-- Positive response
-
-  - User will begin to input steps to track their tasks.
-
-- Negative Response
-  - Unable to create step. Error message.
+<Tabs>
+  <TabItem value="Positive Response" label="Positive Response">User will begin to input steps to track their tasks.</TabItem>
+  <TabItem value="Negative Response" label="Negative Response">Unable to create step. Error message.</TabItem>
+</Tabs>
 
 #### Editing and Deleting a step
 
-- Positive response
-
-  - Step's name will be updated/deleted accordingly.
-
-- Negative response
-  - Error message.
+<Tabs>
+  <TabItem value="Positive Response" label="Positive Response">Step's name will be updated/deleted accordingly.</TabItem>
+  <TabItem value="Negative Response" label="Negative Response">Error message.</TabItem>
+</Tabs>
 
 #### Search for groups
 
-- Positive response
-
-  - If a group exists, the user will be directed to the page containing the group's information. Otherwise, the user will be prompted to create a new group.
-
-- Negative response
-  - No error message.
+<Tabs>
+  <TabItem value="Positive Response" label="Positive Response">If a group exists, the user will be directed to the page containing the group's information. Otherwise, the user will be prompted to create a new group.</TabItem>
+  <TabItem value="Negative Response" label="Negative Response">No error message.</TabItem>
+</Tabs>
 
 #### Filter steps
 
-- Positive response
-
-  - User will be able to filter the steps according to any keyword they typed in. Successful filters will filter the steps accordingly.
-
-- Negative response
-  - No error message.
+<Tabs>
+  <TabItem value="Positive Response" label="Positive Response">User will be able to filter the steps according to any keyword they typed in. Successful filters will filter the steps accordingly.</TabItem>
+  <TabItem value="Negative Response" label="Negative Response">No error message.</TabItem>
+</Tabs>
 
 #### Adding tags
 
-- Positive response
-
-  - Tags added will be placed right beside the input box.
-
-- Negative response
-  - No error message.
+<Tabs>
+  <TabItem value="Positive Response" label="Positive Response">Tags added will be placed right beside the input box.</TabItem>
+  <TabItem value="Negative Response" label="Negative Response">No error message.</TabItem>
+</Tabs>
 
 ## Reflection
 
@@ -119,9 +115,3 @@ As a result, the majority of my time was spent learning Rails syntax, reading do
 - Introduce testing
 
 - Refactor to Typescript
-
-## Repositories
-
-Frontend Repo: https://github.com/Zxun2/cvwo-assignment-frontend
-
-Backend Repo: https://github.com/Zxun2/cvwo-assignment-backend
