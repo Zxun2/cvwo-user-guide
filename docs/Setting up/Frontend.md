@@ -7,13 +7,23 @@ sidebar_position: 1
 Groups and Steps is built entirely within the React ecosystem and Docker is used for development.
 Some other notable frontend libraries include Material UI and React Router.
 
-### Running Frontend Development Server on Docker
+:::info
+You can visit the frontend repo here: https://github.com/Zxun2/cvwo-assignment-frontend.
+
+```bash
+Username: tutorial@gmail.com
+Password: foobar
+```
+
+:::
+
+## Running Development Server on Docker
 
 ```bash
 docker-compose -f docker-compose.yaml -f docker-compose-dev.yaml up -d --build
 ```
 
-### Running Frontend Production Server on Docker
+## Running Frontend Production Server on Docker
 
 ```bash
 docker-compose -f docker-compose.yaml -f docker-compose-prod.yaml up -d --build

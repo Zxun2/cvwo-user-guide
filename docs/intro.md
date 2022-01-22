@@ -13,9 +13,9 @@ So....what is _Groups and Steps?_ Groups and Steps 📝 is a Progressive Web App
 1. Create. Read. Delete. Update. These tasks awaits you!
 2. Prioritize tasks, set due dates and check statuses with a glance.
 3. Application wide notifcation system.
-4. Over time, the number of groups may be too much to keep track. That's why we have the search bar (with Autocompletion)!
+4. Over time, the number of groups may be too much to keep track. Introducing the search bar (with autocompletion)!
 5. Filter your steps with just a click.
-6. A task bar to remind you for your upcoming deadlines
+6. Task bar to remind you for your upcoming deadlines
 7. ...And More!
 
 ## Vist the application here!

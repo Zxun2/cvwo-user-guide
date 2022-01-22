@@ -23,14 +23,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          editUrl: "https://github.com/Zxun2/cvwo-assignment-frontend",
+          editUrl: "https://github.com/Zxun2/cvwo-user-guide/tree/master/",
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl: "https://github.com/Zxun2/cvwo-assignment-frontend",
-        },
+        blog: false, // Optional: disable the blog plugin
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -64,7 +59,7 @@ const config = {
       footer: {
         style: "dark",
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} Groups and Steps, Inc. `,
+        copyright: `Copyright © ${new Date().getFullYear()} Groups and Steps, Inc. By Zong Xun.`,
       },
       prism: {
         theme: lightCodeTheme,
