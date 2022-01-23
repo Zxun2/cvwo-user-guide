@@ -6,7 +6,7 @@ sidebar_position: 1
 
 By Lee Zong Xun
 
-This submission details the user stories and use cases for the application, database implementation with rails and plans for the upcoming month.
+This submission details the user stories and use cases for the application, database implementation and plans for the upcoming month.
 
 Github Submission Repo: [Frontend Repo](https://github.com/Zxun2/cvwo-assignment-frontend), [Backend Repo](https://github.com/Zxun2/cvwo-assignment-backend)
 

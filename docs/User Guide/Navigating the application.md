@@ -24,7 +24,7 @@ Click the register button to register. Note that names must be longer than 8 cha
 
 ## Groups
 
-Groups are referred to as "topics" in your tasks. They can assist you in categorizing the tasks at hand..
+Groups are referred to as "topics" in your tasks. They can assist you in categorizing the tasks at hand.
 
 To view your groups, simply open the sidebar (it should already be open by default, in which case you'll need to click on the hamburger menu in the upper left corner of your screen). To establish a new group, enter the title of your group at the bottom of the screen.
 
