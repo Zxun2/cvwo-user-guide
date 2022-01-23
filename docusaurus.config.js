@@ -50,7 +50,7 @@ const config = {
             label: "Tutorial",
           },
           {
-            href: "https://github.com/Zxun2/cvwo-assignment-frontend",
+            href: "https://github.com/Zxun2/cvwo-user-guide/",
             label: "GitHub",
             position: "right",
           },

@@ -2,6 +2,12 @@
 
 Different view modes appeal to different users base. Here, we add two different view mode.
 
+:::info
+
+You can change the view by navigating to relevant option under "Advanced Options".
+
+:::
+
 Grid view:
 
 ![Grid view](../../static/img/docs/grid-view.png)
