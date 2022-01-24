@@ -21,3 +21,14 @@ So....what is _Groups and Steps?_ Groups and Steps 📝 is a Progressive Web App
 ## Vist the application here!
 
 📝 [Groups and Steps](https://cvwo-groups-and-steps-ts.netlify.app/)
+
+:::info
+
+Do make use of this account for easy access
+
+```bash
+Username: tutorial@gmail.com
+Password: foobar
+```
+
+:::

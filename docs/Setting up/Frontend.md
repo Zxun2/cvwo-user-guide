@@ -10,11 +10,6 @@ Some other notable frontend libraries include Material UI and React Router.
 :::info
 You can visit the frontend repo here: https://github.com/Zxun2/cvwo-assignment-frontend.
 
-```bash
-Username: tutorial@gmail.com
-Password: foobar
-```
-
 :::
 
 ## Running Development Server on Docker

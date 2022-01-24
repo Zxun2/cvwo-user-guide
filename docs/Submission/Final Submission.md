@@ -14,13 +14,13 @@ Github Submission Repo: [Frontend Repo](https://github.com/Zxun2/cvwo-assignment
 
 **Thoughts**
 
-I would have laughed at myself if I had told myself before the winter break that I would be designing a Progressive Web Application from scratch. I had no idea what a PWA was! Time and again, I am greeted with a variety of roadblocks and unknown issues. Days and weeks pass with little discernible movement on the situation at hand.
+I would have laughed at myself if I had told myself before the winter break that I would be designing a Progressive Web Application from scratch. _I had no idea what a PWA was!_ Time and again, I am greeted with a variety of roadblocks and unknown issues. Days and weeks pass with little discernible movement on the situation at hand.
 
-With absolutely no experience in Ruby on Rails, I dedicated the majority of my time during the first month or so familiarizing myself with Ruby syntax and studying the best possible practices for scaling the backend. I read the documentation thoroughly, trying out each and every example myself, and finally, with a plan in place, I began to work on the backend application. The entire process was rather smooth, except for setting up the project as I was a Windows user and have never used Linux in my life. Thankfully, with docker, the entire process of setting up was as easy as just a single command. Thanks, docker!
+With absolutely no experience in Ruby on Rails, I dedicated the majority of my time during the first month or so familiarizing myself with Ruby syntax and studying the best possible practices for scaling the backend. I read the documentation thoroughly, trying out each and every example myself, and finally, with a plan in place, I began to work on the backend application. The entire process was rather smooth, except for setting up the project as I was a Windows user and have never used Linux in my life. Thankfully, with docker, the entire process of setting up was as easy as just a _single_ command. _Thanks, docker!_
 
-When the backend application is completed, I begin to focus on the Frontend. Since I had prior web development knowledge, I was rather adept at using Javascript and hence, the choice of using it as the main programming language of choice. The CSS Library I have chosen is Material UI for its simplicity and fast proto-typing with its pre-built components. Material UI is based on the idea of Styled Components, which is something I am very familiar with.
+When the backend application is completed, I begin to focus on the Frontend. Since I had prior web development knowledge, I was rather adept at using Javascript and hence, the choice of using it as the _main_ programming language of choice. The CSS Library I have chosen is Material UI for its simplicity and fast proto-typing with its pre-built components. Material UI is based on the idea of Styled Components, which is something I am very familiar with.
 
-Day by day, I'm learning, applying, and watching the application expand. The experience is nothing short of exciting and exhilarating. I wish to thank CVWO for this amazing opportunity and I am extremely glad that I took it up. Not only has the experience confirmed what I already knew, but it has also provided me with access to a variety of new and innovative libraries.
+Day by day, I'm learning, applying, and watching the application expand. The experience is nothing short of exciting and exhilarating. I wish to thank CVWO for this amazing opportunity and I am _extremely_ glad that I took it up. Not only has the experience confirmed what I already knew, but it has also provided me with access to a variety of new and innovative libraries.
 
 **Accomplishments**
 
@@ -38,7 +38,7 @@ Day by day, I'm learning, applying, and watching the application expand. The exp
 
 - **Becoming an independent learner**
 
-  Completing this application is something I'm very proud of. Although two months is not a long time, I believe I have matured significantly throughout this period. I had simply wanted to finish the basic functionality at first. But, with a plan and a goal in mind, the product gradually progresses to level 4, and eventually, I am able to execute the majority, if not all, of the features that I had envisioned. I'm incredibly proud of how far I've come in this regard.
+  Completing this application is something I'm very proud of. Although two months is not a long time, I believe I have matured significantly throughout this period. I had simply wanted to finish the basic functionality at first. But, with a plan and a goal in mind, the product gradually progresses to level 4, and eventually, I am able to execute the majority, if not all, of the features that I had envisioned. I'm **incredibly proud** of how far I've come in this regard.
 
 **User Guide**
 
